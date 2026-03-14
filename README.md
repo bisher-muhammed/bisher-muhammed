@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Muhammed Bisher P 👋</h1>
+<h1 align="center">Hi there, I'm Muhammed Bisher P </h1>
 
 <p align="center">
   <b>Full-Stack Developer · Python & React Specialist · Open Source Enthusiast</b><br/>
