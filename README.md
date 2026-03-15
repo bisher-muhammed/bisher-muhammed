@@ -16,7 +16,6 @@
 
 ## 🧑‍💻 About Me
 - 💡 Passionate about building clean, scalable web applications and solving real-world problems
-- ⚡ Resolved **30+ production defects** and optimized DB queries to cut processing time by **40%**
 - 🧩 Solved **100+ LeetCode challenges** focused on Data Structures & Algorithms in Python
 - 📦 Managed **10+ projects** end-to-end — from requirements to deployment (SDLC)
 - 📫 Reach me at **bisherp2@gmail.com** or **+91 6282069802**
